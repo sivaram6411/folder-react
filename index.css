@@ -1,0 +1,97 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* #heading {
+  color: blue;
+}
+.nav-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 3px;
+  background-color: cornsilk;
+}
+.nav-container > div > h2 {
+  color: blue;
+}
+.nav-container:hover {
+  border: 1px solid red;
+}
+.logo {
+  width: 100px;
+}
+
+.nav-list > ul {
+  display: flex;
+}
+.nav-list > ul > li {
+  margin: 5px;
+  list-style-type: none;
+}
+.body {
+  display: flex;
+  flex-wrap: wrap;
+}
+.card {
+  margin: 5px;
+  background-color: lightcyan;
+  padding: 5px;
+  width: 200px;
+  height: 500px;
+}
+.card:hover {
+  cursor: pointer;
+  border: 1px solid orange;
+}
+.card-image {
+  width: 100%;
+}
+.filter-btn {
+  margin: 10px;
+  height: 35px;
+  width: 180px;
+  color: coral;
+  background-color: floralwhite;
+  border-color: crimson;
+  font-weight: bold;
+  cursor: pointer;
+}
+.shimmer-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+.shimmer {
+  height: 500px;
+  width: 250px;
+  background-color: #f0f0ff;
+  margin: 5px;
+}
+.filter {
+  display: flex;
+}
+.search {
+  margin: 10px;
+}
+.search-input {
+  height: 29px;
+  background-color: floralwhite;
+  border-color: crimson;
+  font-weight: bold;
+  border-right-width: 0px;
+}
+.search-btn {
+  height: 35px;
+  background-color: floralwhite;
+  border-color: crimson;
+  font-weight: bold;
+  cursor: pointer;
+}
+.user {
+  padding: 10px;
+  border: 1px blueviolet solid;
+}
+.git-image {
+  width: 15%;
+  border-radius: 100%;
+} */

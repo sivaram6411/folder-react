@@ -1,0 +1,40 @@
+{
+  "name": "folder-react",
+  "version": "1.0.0",
+  "description": "this react create by shiva",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sivaram6411/folder-react.git"
+  },
+  "keywords": [
+    "react",
+    "shiva",
+    "namaste",
+    "krishna"
+  ],
+  "author": "shivaram",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sivaram6411/folder-react/issues"
+  },
+  "homepage": "https://github.com/sivaram6411/folder-react#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "postcss": "^8.4.35",
+    "process": "^0.11.10",
+    "tailwindcss": "^3.4.1"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.22.0"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+}
